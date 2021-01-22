@@ -1,0 +1,5 @@
+**/*.min.js
+**/../Plantilla/plugins/*
+**/../Plantilla/dist/*
+**/build/npm
+ad.js
